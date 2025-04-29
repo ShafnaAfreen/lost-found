@@ -1,5 +1,5 @@
 // Add your API endpoint here
-var API_ENDPOINT = "https://kt3kc0c64g.execute-api.eu-north-1.amazonaws.com/prod";
+var API_ENDPOINT ="<your API_ENDPOINT>"; 
 
 // Function to upload found item data
 document.getElementById("saveItem").addEventListener("click", function(event) {
