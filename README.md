@@ -1,2 +1,31 @@
-# lost-found
-Virtual Lost &amp; Found System is a cloud-based platform that allows users to upload and track lost and found items. Using AWS services like S3, DynamoDB, and Cognito, the system provides a secure and efficient way to manage lost items with images and details.
+# 🧳 Virtual Lost & Found System
+
+The **Virtual Lost & Found System** is a cloud-based platform where users can upload and track lost items. The backend is powered by **AWS** (S3 for file storage, DynamoDB for item data, and Cognito for user authentication). The front-end is designed for simplicity and ease of use.
+
+---
+
+## ✨ Features
+
+- **User Authentication** using AWS Cognito
+- **Upload Lost and Found Items** with images and details
+- **Item Management** using DynamoDB for storing item data
+- **File Storage** on AWS S3 for images
+- **Real-time Updates** on lost & found items
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** AWS SDK, JavaScript (for backend scripting)
+- **Cloud Services:** AWS S3, AWS DynamoDB, AWS Cognito
+- **Authentication:** AWS Cognito User Pools
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/ShafnaAfreen/lost-and-found.git
+cd lost-and-found
