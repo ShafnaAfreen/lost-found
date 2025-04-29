@@ -1,5 +1,5 @@
 
-var API_ENDPOINT = "https://643ff9x4cj.execute-api.eu-north-1.amazonaws.com/prod1"; 
+var API_ENDPOINT = "<your API_ENDPOINT>"; 
 
 document.getElementById("showItemsBtn").onclick = function() {  
     $.ajax({
