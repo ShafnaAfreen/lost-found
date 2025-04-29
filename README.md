@@ -7,9 +7,8 @@ The **Virtual Lost & Found System** is a cloud-based platform where users can up
 ## ✨ Features
 
 - **User Authentication** using AWS Cognito
-- **Upload Lost and Found Items** with images and details
+- **Upload Lost and Found Items** with details
 - **Item Management** using DynamoDB for storing item data
-- **File Storage** on AWS S3 for images
 - **Real-time Updates** on lost & found items
 
 ---
